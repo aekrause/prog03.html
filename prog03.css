@@ -1,10 +1,10 @@
-body{background-color: Grey;}
-h1{color: Red;}
+body{background-color: Blue;}
+h1{color: Black;}
 h1{text-align: left;}
 p{outline-style: solid;}
-p{outline-color: black;}
+p{outline-color: Red;}
 p{text-align: left;}
-table{border-color: blue;}
-table{background-color: red;}
+table{border-color: Red;}
+table{background-color: Blue;}
 table{width: 40%; margin-left: 0%; margin-right: 70%;}
-td{border-style: solid; border-color: black;}
+td{border-style: solid; border-color: Red;}
