@@ -2,9 +2,9 @@ body{background-color: Blue;}
 h1{color: Black;}
 h1{text-align: left;}
 p{outline-style: solid;}
-p{outline-color: Red;}
+p{outline-color: Blue;}
 p{text-align: left;}
-table{border-color: Red;}
+table{border-color: Black;}
 table{background-color: Blue;}
 table{width: 40%; margin-left: 0%; margin-right: 70%;}
-td{border-style: solid; border-color: Red;}
+td{border-style: solid; border-color: Black;}
